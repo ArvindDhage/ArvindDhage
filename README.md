@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Ecommerce-Data-Analysis](https://github.com/ArvindDhage/Ecommerce-Sales-Dashboard)
 
-- 🌱 I’m currently learning **Data Analysis, Machine Learning, Data Visualixa**
+- 🌱 I’m currently learning **Java Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
